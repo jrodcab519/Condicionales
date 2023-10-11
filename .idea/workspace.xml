@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21b85b86-df32-4b44-b65a-13b2cd4acd93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EjerciciosCondicional.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicional1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicional2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicional3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicional4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="21b85b86-df32-4b44-b65a-13b2cd4acd93" name="Changes" comment="versión inicial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Condicional5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Condicional5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +54,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697012752603</updated>
-      <workItem from="1697012753821" duration="2188000" />
+      <workItem from="1697012753821" duration="2891000" />
     </task>
+    <task id="LOCAL-00001" summary="versión inicial">
+      <option name="closed" value="true" />
+      <created>1697015297982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697015297982</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="versión inicial" />
+    <option name="LAST_COMMIT_MESSAGE" value="versión inicial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
