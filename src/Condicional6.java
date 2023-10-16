@@ -9,6 +9,7 @@ public class Condicional6 {
         int minutos = s.nextInt();
         System.out.println(" Introduce día: Lunes(L), Martes (M), Miércoles(X), Jueves(J), Viernes(V), Sábado(S) ó Domingo(D):");
         char dia = s.next().charAt(0);
+
         System.out.println(" Introduce turno: Turno de mañana(M) o Tarde(T)");
         char turno = s.next().charAt(0);
 
